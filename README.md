@@ -1,1 +1,1 @@
-Rock 🪨  VS  Paper 🗞️  VS  Scisscor ✂️
+{Rock 🪨}  VS  {Paper 🗞️} VS  {Scisscor ✂️}
